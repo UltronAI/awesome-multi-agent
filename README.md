@@ -20,7 +20,7 @@ In addition, some related resources, such as hyperlinks to open-source codes and
 ## Basis of Reinforcement Learning
 
 ### Comparison of RL algorithms (from [Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning))
-![1569218477168](.\_assets\1569218477168.png)
+![1569218477168](_assets\1569218477168.png)
 
 ### A taxonomy of algorithms in modern RL (from [OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html#citations-below))
 ![rl_algorithms_9_15](https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg)
