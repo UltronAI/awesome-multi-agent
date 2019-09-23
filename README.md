@@ -65,7 +65,7 @@ communicate with deep multi-agent reinforcement learning ([pdf](https://papers.n
 - **[Science 2019]** Human-level performance in 3D multiplayer games with population-based reinforcement learning ([pdf](https://science.sciencemag.org/content/sci/364/6443/859.full.pdf))
 
 ### StarCraft
-- AlphaStar: Mastering the real-time strategy game StarCraft II. ([blog](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii))
+- AlphaStar: Mastering the real-time strategy game StarCraft II ([blog](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii))
 
 ### Hide-and-Seek
 - **[Arxiv 2019]** Emergent Tool Use From Multi-Agent Autocurricula ([pdf](https://arxiv.org/pdf/1909.07528.pdf))([code](https://github.com/openai/multi-agent-emergence-environments))([blog](https://openai.com/blog/emergent-tool-use/))
