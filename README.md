@@ -28,6 +28,20 @@ Topics & Quick jump:
 ### A taxonomy of algorithms in modern RL (from [OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html#citations-below))
 ![rl_algorithms_9_15](https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg)
 
+#### Model-Free RL
+- **[DQN 2013]** Playing Atari with Deep Reinforcement Learning ([pdf](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf))
+  - introduces Deep Network to end-to-end RL (Q-learning)
+- **[DDPG 2015]** Continuous control with deep reinforcement learning ([pdf](https://arxiv.org/pdf/1509.02971))
+  - concurrently learns a deterministic policy and a Q-function by using each to improve the other
+- **[TRPO 2015]** Trust Region Policy Optimization ([pdf](https://arxiv.org/pdf/1502.05477))
+- **[A2C/A3C 2016]** Asynchronous Methods for Deep Reinforcement Learning ([pdf](https://arxiv.org/pdf/1602.01783))
+  - performs gradient ascent to directly maximize performance
+- **[PPO 2017]** Proximal Policy Optimization Algorithms ([pdf](https://arxiv.org/pdf/1707.06347))
+  - maximizes a surrogate objective function which gives a conservative estimate for how much $J(\pi_{\theta})$ will change as a result of the update
+- **[SAC 2018]** Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([pdf](https://arxiv.org/pdf/1801.01290.pdf))
+  - uses stochastic policies, entropy regularization, and a few other tricks to stabilize learning and score higher than DDPG on standard benchmarks
+
+
 [Back to top](#awesome-multi-agent)
 
 ## Communication
